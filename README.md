@@ -34,10 +34,10 @@ git clone https://github.com/your-username/rainfall-prediction.git
 cd rainfall-prediction
 pip install -r requirements.txt
 
-## Usage
+**## Usage**
 Data Cleaning: Run the data_cleaning.ipynb notebook or data_cleaning.py script to clean the raw data.
 Feature Engineering: Use the feature_engineering.ipynb notebook or feature_engineering.py script to create and select relevant features.
 Model Building: Build and evaluate classification models using the model_building.ipynb notebook or model_building.py script.
 
-## Model Validation
+**## Model Validation**
 Plan a validation method to effectively evaluate the model, such as cross-validation or train-test split. Ensure that the model generalizes well to unseen data.
